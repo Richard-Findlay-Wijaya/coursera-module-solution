@@ -1,0 +1,58 @@
+body {
+    font-size: 18px;
+    color: #fff;
+    background-color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header-nav{
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand h1{
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 10px;
+    line-height: .75;
+}
+
+.navbar-brand{
+    height: auto;
+}
+
+.navbar-brand a:hover , .navbar-brand a:focus{
+    text-decoration: none;
+}
+
+#nav-list {
+    margin-top: 10px;
+    background-color: #f6b319;
+}
+    #nav-list a {
+    text-align: center;
+}
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+#nav-list a span {
+    font-size: 1.2em;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -15px;
+}
+
+.container h2{
+    margin-bottom: 30px;
+}
+
+#box{
+    background-color: coral;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px 25px 10px 25px;
+}
